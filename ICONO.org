@@ -1,0 +1,12 @@
+| Nom                                              | Abrv |
+| Entretien/interrogatoire                         | INT  |
+| Synthèse_des_résultats_des_examens_paracliniques | EXA  |
+| Stratégie_diagnostique                           | SDG  |
+| Education/prévention                             | ETP  |
+| Stratégie_pertinente_de_prise_en_charge          | PEC  |
+| Urgence                                          | URG  |
+| Annonce                                          | ANN  |
+| Communication_inter-professionnelle              | COM  |
+| Examen_clinique                                  | CLI  |
+| Iconographie                                     | ICO  |
+| Procédure                                        | PRO  |
