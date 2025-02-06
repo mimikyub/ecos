@@ -832,7 +832,7 @@
 ** Chercher des signes dermatologiques et généraux de gravité :CLI:SDD_087:
 ** Initier la prise en charge urgente d'une fasciite nécrosante :URG:SDD_087:
 ** Identifier les situations justifiant une hospitalisation :PEC:SDD_087:
-** Initier la prise en charge thérapeutique en hospitalisation ou en ambulatoire :PEC:SDD_86:
+** Initier la prise en charge thérapeutique en hospitalisation ou en ambulatoire :PEC:SDD_87:
 ---
 * SDD-088 Prurit
 ** Caractériser le prurit, sa topographie et son mode évolutif :INT:SDD_088:
