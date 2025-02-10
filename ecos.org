@@ -303,8 +303,7 @@
 ** Proposer une prise en charge étiologique et symptomatique :PEC:SDD_031:
 ** Proposer le recours et interagir avec, les référents médico-sociaux, les professionnels des réseaux, structures ou sytèmes de soins destinés aux patients en perte d'autonomie :COM:SDD_031:
 ---
-* SDD-032 .!13001!Deshydratation de l'enfant
----
+
 * SDD-032 Deshydratation de l'enfant
 ** Identifier les situations à risque de déshydratation rapide :DGP:SDD_032:
 ** Evaluer un état de déshydratation chez le nourrisson et l'enfant, calculer le pourcentage de perte de poids :CLI:SDD_032:
@@ -1818,13 +1817,14 @@
 ** Initier la prise en charge thérapeutique en cas de nécessité :PEC:SDD_189:
 ---
 * SDD-190 Hémoculture positive
-** Identifier les situations cliniques où la réalisation d'un ECBU est pertinente :CLI:SDD_190:
-** Réaliser le recueil des urines selon les bonnes pratiques de prélèvement :PRO:SDD_190:
-** Interpréter les résultats de l'ECBU, en prenant en compte les éventuels matériels endo-urinaires :DGP:SDD_190:
-** Orienter l'examen clinique selon l'étiologie suspectée, en cas de seuil pathologique mis en évidence, :CLI:SDD_190:
-** Interpréter la pathogénicité d'un microorganisme mis en évidence sur un ECBU :EXA:SDD_190:
-** Expliquer au patient la prise en charge ou l'abstention thérapeutique :ANN:SDD_190:
-** Initier la prise en charge thérapeutique en cas de nécessité :PEC:SDD_190:
+** Identifier les situations justifiant la réalisation d'hémocultures et leur répétition selon l'évolution, le contexte clinique et/ou l'agent infectieux :DGP:SDD_190
+** Distinguer une contamination d'une bactériémie :EXA:SDD_190
+** Chercher, à partir de l'anamnèse et des données cliniques, les éléments d'orientation pour déterminer la porte d'entrée et/ou le foyer infectieux :CLI:SDD_190
+** Chercher les éléments de gravité, liés au terrain et au germe, ou au sepsis/choc :URG:SDD_190
+** Instaurer une thérapeutique anti-infectieuse probabiliste des bactériémies/fongémies en fonction de la porte d'entrée suspectée et des signes de gravité du patient, de l'examen direct de l'hémoculture, en attendant l'antibiogramme/antifongigramme :PEC:SDD_190
+** Chercher les éléments en faveur d'une endocardite, si adapté :DGP:SDD_190
+** Chercher les éléments en faveur d'une infection de cathéter, si adapté :DGP:SDD_190
+** Réaliser une déclaration obligatoire selon les agents pathogènes identifiés et selon les critères de notification :ETP:SDD_190
 ---
 * SDD-191 Prescription et interprétation d'un examen microbiologique des selles
 ** Identifier les situations où la prescription d'un examen microbiologique des selles est indiquée :DGP:SDD_191:
